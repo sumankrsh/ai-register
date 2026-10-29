@@ -1,0 +1,6 @@
+{
+  "mcpServers": {
+    "filesystem": {"command": "npx", "args": ["-y", "@modelcontextprotocol/server-filesystem", "./docs"]},
+    "crm-lookup": {"command": "python", "args": ["tools/crm_server.py"]}
+  }
+}
