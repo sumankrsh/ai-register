@@ -4,6 +4,8 @@ Scan a codebase, list every AI system it contains, and keep that list as a regis
 
 ![ai-register scanning the sample repo, then catching a new OpenAI call in CI](docs/demo.svg)
 
+▶ [Watch the 50-second demo video](https://github.com/sumankrsh/ai-register/releases/latest/download/demo.mp4)
+
 ## The problem
 
 The EU AI Act and ISO/IEC 42001 both start with the same question: which AI systems do you run? In most organisations the answer is a spreadsheet that someone filled in once. Developers add a new model call in a pull request, and the spreadsheet never hears about it.
